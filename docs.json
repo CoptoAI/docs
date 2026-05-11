@@ -20,99 +20,139 @@
     ]
   },
   "navigation": {
-    "tabs": [
+    "languages": [
       {
-        "tab": "العربية",
-        "groups": [
+        "language": "ar",
+        "tabs": [
           {
-            "group": "مرحباً بك",
-            "pages": [
-              "ar/index",
-              "ar/getting-started/index",
-              "ar/getting-started/user-roles"
+            "tab": "البداية",
+            "groups": [
+              {
+                "group": "مرحباً بك",
+                "pages": [
+                  "ar/index",
+                  "ar/getting-started/index",
+                  "ar/getting-started/user-roles"
+                ]
+              },
+              {
+                "group": "إدارة الحساب",
+                "pages": [
+                  "ar/account-management/index",
+                  "ar/account-management/profile-settings",
+                  "ar/account-management/notification-preferences"
+                ]
+              }
             ]
           },
           {
-            "group": "إدارة الحساب",
-            "pages": [
-              "ar/account-management/index",
-              "ar/account-management/profile-settings",
-              "ar/account-management/notification-preferences"
+            "tab": "الطالب",
+            "groups": [
+              {
+                "group": "دليل الطالب",
+                "pages": [
+                  "ar/student/index",
+                  "ar/student/course-enrollment",
+                  "ar/student/live-classes",
+                  "ar/student/certificates"
+                ]
+              }
             ]
           },
           {
-            "group": "دليل الطالب",
-            "pages": [
-              "ar/student/index",
-              "ar/student/course-enrollment",
-              "ar/student/live-classes",
-              "ar/student/certificates"
+            "tab": "الخادم والمحاضر",
+            "groups": [
+              {
+                "group": "دليل الخادم والمحاضر",
+                "pages": [
+                  "ar/instructor/index",
+                  "ar/instructor/creating-courses",
+                  "ar/instructor/drip-content",
+                  "ar/instructor/mentoring-timesheets"
+                ]
+              }
             ]
           },
           {
-            "group": "دليل الخادم والمحاضر",
-            "pages": [
-              "ar/instructor/index",
-              "ar/instructor/creating-courses",
-              "ar/instructor/drip-content",
-              "ar/instructor/mentoring-timesheets"
-            ]
-          },
-          {
-            "group": "إدارة المؤسسات",
-            "pages": [
-              "ar/diocese-admin/index",
-              "ar/diocese-admin/organization-setup",
-              "ar/diocese-admin/bulk-import",
-              "ar/diocese-admin/tracking-attendance"
+            "tab": "مسؤول المؤسسة",
+            "groups": [
+              {
+                "group": "إدارة المؤسسات",
+                "pages": [
+                  "ar/diocese-admin/index",
+                  "ar/diocese-admin/organization-setup",
+                  "ar/diocese-admin/bulk-import",
+                  "ar/diocese-admin/tracking-attendance"
+                ]
+              }
             ]
           }
         ]
       },
       {
-        "tab": "English",
-        "groups": [
+        "language": "en",
+        "tabs": [
           {
-            "group": "Welcome",
-            "pages": [
-              "en/index",
-              "en/getting-started/index",
-              "en/getting-started/user-roles"
+            "tab": "Getting Started",
+            "groups": [
+              {
+                "group": "Welcome",
+                "pages": [
+                  "en/index",
+                  "en/getting-started/index",
+                  "en/getting-started/user-roles"
+                ]
+              },
+              {
+                "group": "Account Management",
+                "pages": [
+                  "en/account-management/index",
+                  "en/account-management/profile-settings",
+                  "en/account-management/notification-preferences"
+                ]
+              }
             ]
           },
           {
-            "group": "Account Management",
-            "pages": [
-              "en/account-management/index",
-              "en/account-management/profile-settings",
-              "en/account-management/notification-preferences"
+            "tab": "Student",
+            "groups": [
+              {
+                "group": "Student Guide",
+                "pages": [
+                  "en/student/index",
+                  "en/student/course-enrollment",
+                  "en/student/live-classes",
+                  "en/student/certificates"
+                ]
+              }
             ]
           },
           {
-            "group": "Student Guide",
-            "pages": [
-              "en/student/index",
-              "en/student/course-enrollment",
-              "en/student/live-classes",
-              "en/student/certificates"
+            "tab": "Instructor",
+            "groups": [
+              {
+                "group": "Instructor Guide",
+                "pages": [
+                  "en/instructor/index",
+                  "en/instructor/creating-courses",
+                  "en/instructor/drip-content",
+                  "en/instructor/mentoring-timesheets"
+                ]
+              }
             ]
           },
           {
-            "group": "Instructor Guide",
-            "pages": [
-              "en/instructor/index",
-              "en/instructor/creating-courses",
-              "en/instructor/drip-content",
-              "en/instructor/mentoring-timesheets"
-            ]
-          },
-          {
-            "group": "Diocese Admin Guide",
-            "pages": [
-              "en/diocese-admin/index",
-              "en/diocese-admin/organization-setup",
-              "en/diocese-admin/bulk-import",
-              "en/diocese-admin/tracking-attendance"
+            "tab": "Diocese Admin",
+            "groups": [
+              {
+                "group": "Diocese Admin Guide",
+                "pages": [
+                  "en/diocese-admin/index",
+                  "en/diocese-admin/organization-setup",
+                  "en/diocese-admin/bulk-import",
+                  "en/diocese-admin/tracking-attendance"
+                ]
+              }
             ]
           }
         ]
