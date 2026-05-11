@@ -176,6 +176,9 @@
     },
     "gtm": {
       "tagId": "GT-NS4JQXMN"
+    },
+    "telemetry": {
+      "enabled": true
     }
   }
 }
