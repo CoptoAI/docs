@@ -1,4 +1,5 @@
 {
+  "theme": "mint",
   "name": "Coptogram Help Center",
   "logo": {
     "dark": "/logo/dark.svg",
