@@ -22,7 +22,7 @@
   "navigation": {
     "languages": [
       {
-        "language": "en",
+        "language": "ar",
         "tabs": [
           {
             "tab": "Onboarding",
@@ -197,7 +197,8 @@
               }
             ]
           }
-        ]
+        ],
+        "default": true
       },
       {
         "language": "en",
