@@ -169,5 +169,10 @@
       "linkedin": "https://linkedin.com/company/coptogram",
       "facebook": "https://facebook.com/coptogram"
     }
+  },
+  "integrations": {
+    "ga4": {
+      "measurementId": "G-1QP8R47PFC"
+    }
   }
 }
