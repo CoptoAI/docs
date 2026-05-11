@@ -25,15 +25,6 @@
         "language": "ar",
         "tabs": [
           {
-            "tab": "Onboarding",
-            "groups": [
-              {
-                "group": "Welcome",
-                "pages": []
-              }
-            ]
-          },
-          {
             "tab": "المؤسسات"
           },
           {
