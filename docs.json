@@ -173,6 +173,9 @@
   "integrations": {
     "ga4": {
       "measurementId": "G-1QP8R47PFC"
+    },
+    "gtm": {
+      "tagId": "GT-NS4JQXMN"
     }
   }
 }
