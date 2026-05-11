@@ -28,7 +28,43 @@
             "group": "مرحباً بك",
             "pages": [
               "ar/index",
+              "ar/getting-started/index",
               "ar/getting-started/user-roles"
+            ]
+          },
+          {
+            "group": "إدارة الحساب",
+            "pages": [
+              "ar/account-management/index",
+              "ar/account-management/profile-settings",
+              "ar/account-management/notification-preferences"
+            ]
+          },
+          {
+            "group": "دليل الطالب",
+            "pages": [
+              "ar/student/index",
+              "ar/student/course-enrollment",
+              "ar/student/live-classes",
+              "ar/student/certificates"
+            ]
+          },
+          {
+            "group": "دليل الخادم والمحاضر",
+            "pages": [
+              "ar/instructor/index",
+              "ar/instructor/creating-courses",
+              "ar/instructor/drip-content",
+              "ar/instructor/mentoring-timesheets"
+            ]
+          },
+          {
+            "group": "إدارة المؤسسات",
+            "pages": [
+              "ar/diocese-admin/index",
+              "ar/diocese-admin/organization-setup",
+              "ar/diocese-admin/bulk-import",
+              "ar/diocese-admin/tracking-attendance"
             ]
           }
         ]
@@ -40,7 +76,43 @@
             "group": "Welcome",
             "pages": [
               "en/index",
+              "en/getting-started/index",
               "en/getting-started/user-roles"
+            ]
+          },
+          {
+            "group": "Account Management",
+            "pages": [
+              "en/account-management/index",
+              "en/account-management/profile-settings",
+              "en/account-management/notification-preferences"
+            ]
+          },
+          {
+            "group": "Student Guide",
+            "pages": [
+              "en/student/index",
+              "en/student/course-enrollment",
+              "en/student/live-classes",
+              "en/student/certificates"
+            ]
+          },
+          {
+            "group": "Instructor Guide",
+            "pages": [
+              "en/instructor/index",
+              "en/instructor/creating-courses",
+              "en/instructor/drip-content",
+              "en/instructor/mentoring-timesheets"
+            ]
+          },
+          {
+            "group": "Diocese Admin Guide",
+            "pages": [
+              "en/diocese-admin/index",
+              "en/diocese-admin/organization-setup",
+              "en/diocese-admin/bulk-import",
+              "en/diocese-admin/tracking-attendance"
             ]
           }
         ]
