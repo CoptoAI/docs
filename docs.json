@@ -11,38 +11,40 @@
     "light": "#d4af37",
     "dark": "#c0392b"
   },
-  "topbarLinks": [
-    {
-      "name": "الذهاب للمنصة",
-      "url": "https://coptogram.com"
-    }
-  ],
-  "tabs": [
-    {
-      "name": "العربية",
-      "url": "ar"
-    },
-    {
-      "name": "English",
-      "url": "en"
-    }
-  ],
-  "navigation": [
-    {
-      "tab": "ar",
-      "group": "مرحباً بك",
-      "pages": [
-        "ar/index",
-        "ar/getting-started/user-roles"
-      ]
-    },
-    {
-      "tab": "en",
-      "group": "Welcome",
-      "pages": [
-        "en/index",
-        "en/getting-started/user-roles"
-      ]
-    }
-  ]
+  "navbar": {
+    "links": [
+      {
+        "label": "الذهاب للمنصة",
+        "href": "https://coptogram.com"
+      }
+    ]
+  },
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "العربية",
+        "groups": [
+          {
+            "group": "مرحباً بك",
+            "pages": [
+              "ar/index",
+              "ar/getting-started/user-roles"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "English",
+        "groups": [
+          {
+            "group": "Welcome",
+            "pages": [
+              "en/index",
+              "en/getting-started/user-roles"
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }
